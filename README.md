@@ -45,5 +45,4 @@ I like to make **pragmatic** and **minimalist** code, well, I try to do the best
 ### Some stats :
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youliix&show_icons=true&theme=darcula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youliix&compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
