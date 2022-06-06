@@ -1,6 +1,6 @@
 <h1 align="center">Hello ! Welcome to my profile ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="25px" height="25px"></h1> 
 
-<img align="left" alt="Coding" width="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"> 
+<img align="left" alt="Coding" width="400" height="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"> 
 
 
 I'm **Mathieu** from **France**, I'm coming from a **reconversion** in **web development**.
