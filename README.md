@@ -1,7 +1,12 @@
 <h1 align="center">Hello ! Welcome to my profile ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="25px" height="25px"></h1> 
 
-<img align="left" alt="Coding" width="400" height="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"> 
+---
 
+<div style="display: block; margin: auto;">
+<img alt="Coding" width="400" height="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"> 
+</div>
+
+---
 
 I'm **Mathieu** from **France**, I'm coming from a **reconversion** in **web development**.
 
@@ -11,7 +16,7 @@ I like to make **pragmatic** and **minimalist** code, well, I try to do the best
 
 ---
 
-## My holy **stacks** for **coding** :
+### My holy **stacks** for **coding** :
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,9 +30,7 @@ I like to make **pragmatic** and **minimalist** code, well, I try to do the best
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-<br>
-<br>
-
+---
 
 ### My stacks desires for the futur : 
 
