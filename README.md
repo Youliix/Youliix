@@ -2,7 +2,7 @@
 
 ---
 
-<div style="display: block; margin: auto;">
+<div align="center">
 <img alt="Coding" width="400" height="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"> 
 </div>
 
