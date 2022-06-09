@@ -8,15 +8,21 @@
 
 ---
 
-I'm **Mathieu** from **France**, I'm coming from a **reconversion** in **web development**.
+<div align="center">
+  
+  I'm **Mathieu** from **France**, I'm coming from a **reconversion** in **web development**.
 
-I like to make **pragmatic** and **minimalist** code, well, I try to do the best I can ! 
+  I like to make **pragmatic** and **minimalist** code, well, I try to do the best I can ! 
 
-#Team **GreenIT** !
+  #Team **GreenIT** !
+  
+</div>
 
 ---
 
 ### My holy **stacks** for **coding** :
+
+<div align="center">
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,18 +35,25 @@ I like to make **pragmatic** and **minimalist** code, well, I try to do the best
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
+</div>
+  
 ---
 
 ### My stacks desires for the futur : 
 
+<div align="center">
+  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+</div>
+  
 ---
 
 ### My working resources :
+
+<div align="center">
 
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
@@ -48,9 +61,15 @@ I like to make **pragmatic** and **minimalist** code, well, I try to do the best
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
+</div>
+  
 ---
 
 ### Some stats :
 
+<div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youliix&show_icons=true&theme=darcula)
+
+</div>
 
