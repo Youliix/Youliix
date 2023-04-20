@@ -10,14 +10,14 @@
 
 <div align="center">
   
-  I'm **Mathieu** from **France**. 
-  I like to make **pragmatic** and **minimalist** code, well, I try to do the best I can !
+  Hi, my name is **Mathieu** and I am a web / data developer from France.
+  I like the **minimalist** and **pragmatic** code.
  
 </div>
 
 ---
 
-### My holy **stacks** for **coding** :
+### My preferred technical choices for **coding** :
 
 <div align="center">
 
