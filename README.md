@@ -17,7 +17,9 @@
 
 ---
 
-<h2 align="center">My preferred technical choices for **coding** :</h2>
+<h2 align="center">My preferred technical choices for coding :</h2>
+
+---
 
 <div align="center">
 
