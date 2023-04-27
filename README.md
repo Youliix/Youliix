@@ -17,14 +17,12 @@
 
 ---
 
-<h2 align="center">My preferred technical choices for coding :</h2>
+<h2 align="center">My tools :</h2>
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=blue)
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=green)
-![Angular](https://img.shields.io/badge/angular-%23323330.svg?style=for-the-badge&logo=angular&logoColor=red)
-![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=blue)
 ![NodeJS](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=green)
 ![Postgres](https://img.shields.io/badge/postgres-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=blue)
 
