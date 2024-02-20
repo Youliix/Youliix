@@ -10,8 +10,7 @@
 
 <div align="center">
   
-  Hi, my name is **Mathieu** and I am a web / data developer from France.
-  I like the **minimalist** and **pragmatic** code.
+  Welcome to my profile, my name is Mathieu, I'm a data / ia developer based in Bordeaux, France.
  
 </div>
 
@@ -25,7 +24,7 @@
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=green)
 ![NodeJS](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=green)
 ![Postgres](https://img.shields.io/badge/postgres-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=blue)
-
+![Sklearn](https://img.shields.io/badge/sklearn-%23323330.svg?style=for-the-badge&logo=sklearn&logoColor=orange)
 </div>
 
 ---
