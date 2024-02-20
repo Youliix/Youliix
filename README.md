@@ -24,7 +24,7 @@
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=green)
 ![NodeJS](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=green)
 ![Postgres](https://img.shields.io/badge/postgres-%23323330.svg?style=for-the-badge&logo=postgresql&logoColor=blue)
-![Jupyter Notebook](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23323330.svg?style=for-the-badge&logo=Jupyter)
 ![Sklearn](https://img.shields.io/badge/sklearn-%23323330.svg?style=for-the-badge&logo=sklearn&logoColor=orange)
 </div>
 
